@@ -1,18 +1,18 @@
-# DecodeLabs DevOps Internship 🚀
+# DecodeLabs DevOps Internship 
 
-**Intern:** Daniyal Hussain  
-**Batch:** 2026  
-**Track:** DevOps Engineering  
+Intern: Daniyal Hussain  
+Batch: 2026  
+Track: DevOps Engineering  
 
 ## Projects
 
-### Project 1 - Linux & Command Line Basics 🐧
+### Project 1 - Linux & Command Line Basics 
 - File and directory operations
 - System navigation and structure
 - File permissions and ownership
 - Real-time log monitoring
 
-### Project 2 - Version Control with Git 🔀
+### Project 2 - Version Control with Git 
 - Git workflow (add, commit, push)
 - Branching and merging strategy
 - Professional commit messages
